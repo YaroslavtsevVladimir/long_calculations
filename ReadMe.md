@@ -1,4 +1,4 @@
-# "Long calculations with Flask"
+# "Long" calculations with Flask
 
 ## Introduction
 Imitation of long calculations on web using time and multiprocessing libs.
